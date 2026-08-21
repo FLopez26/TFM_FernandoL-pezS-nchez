@@ -1,5 +1,3 @@
-\---
-
 ## Idea 1 — Recomendador de juegos de mesa (sistemas de recomendación)
 
 Motor de recomendación que, a partir de las valoraciones y características de decenas de miles de
@@ -42,7 +40,7 @@ datos y metadatos de cada juego.
 * **Apoyo a decisiones de negocio** para tiendas y editoriales.
 * **Generación de conocimiento** sobre qué mecánicas, temas o características impulsan las preferencias.
 
-\---
+
 
 ## Idea 2 — Geografía electoral de España: qué explica el voto por municipios
 
@@ -90,7 +88,7 @@ y existen *shapefiles* oficiales para los mapas.
 * **Apoyo a la toma de decisiones** de medios, investigación y campañas.
 * **Mayor transparencia** mediante visualizaciones claras y reproducibles.
 
-\---
+
 
 ## Idea 3 — Motor de inteligencia de clientes: segmentación, valor de vida (CLV) y riesgo de fuga
 
@@ -141,7 +139,7 @@ alimentaría del histórico de transacciones del propio cliente.
 * **Mejor toma de decisiones** y priorización de esfuerzos comerciales.
 * **Automatización y escalabilidad**: una misma solución replicable a muchas empresas.
 
-\---
+
 
 ## Idea 4 (adicional) — Analizador de draft de League of Legends esports
 
