@@ -136,7 +136,6 @@ Primero se filtra de forma iterativa hasta quedarse con usuarios con 10 valoraci
 - **Dato que falta:** las valoraciones no tienen fecha, lo que impide separar entrenamiento y test por tiempo. Tampoco hay señales implícitas (colección, deseados) ni datos de disponibilidad en España.
 - **Sesgo:** los usuarios de BGG son aficionados intensivos, y el 76 % de las notas de la muestra son ≥ 7. Además, la demo se limita a los 500 juegos más populares, así que todavía no permite medir la recomendación de la cola larga. La versión completa usará todo el catálogo.
 - **Desactualización:** la foto de Kaggle es de 2021-2022. Le faltan 10.118 juegos rankeados hoy, incluidos 23 del top 100.
-- **Si cae una fuente:** Kaggle se sustituye por jvanelteren o por la API con token, y el ranking de GitHub por el volcado oficial de BGG. Si BGG no autoriza el uso, se recogerán valoraciones propias mediante una encuesta y se aplicará el mismo pipeline.
 
 ---
 
