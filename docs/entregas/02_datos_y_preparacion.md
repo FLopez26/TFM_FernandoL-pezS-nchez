@@ -1,8 +1,8 @@
 # Entrega 02 · Datos y preparación
 
-**Proyecto:** recomendador de juegos de mesa · **Autor:** Fernando López Sánchez · **Fecha:** noviembre de 2026
+**Proyecto:** recomendador de juegos de mesa 
 
-Esta entrega es una muestra de los datos. El repositorio solo incluye una muestra pequeña de los datos reales (500 juegos y unos 1.800 usuarios, 1,8 MB), suficiente para construir y probar los primeros modelos. Los ficheros completos (430 MB) no los subo. El pipeline lee únicamente esa muestra, así que se puede ejecutar sin descargar nada.
+Esta entrega es una muestra de los datos. El repositorio solo incluye una muestra pequeña de los datos reales (500 juegos y unos 1.800 usuarios, 1,8 MB), suficiente para construir y probar los primeros modelos. Los ficheros completos (430 MB) no los subo como se indica en el enunciado, los he recortado con -py que se encuentra en /scripts. El pipeline lee únicamente esa muestra, así que se puede ejecutar sin descargar nada.
 
 ---
 

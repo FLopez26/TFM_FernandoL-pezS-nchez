@@ -1,0 +1,41 @@
+{
+  "fecha_creacion": "2026-11-12T17:25:58+00:00",
+  "fuentes": {
+    "kaggle_threnjen": {
+      "url": "https://www.kaggle.com/datasets/threnjen/board-games-database-from-boardgamegeek",
+      "sha256": {
+        "games.csv": "c5905c82c05f90985aef3b535c9e314787ef969af5660bab1964bdc753b2da6d",
+        "mechanics.csv": "ddf2530cdfff9f7cf657d26b2748c89708c212544f92c6782af24df6a7c28cda",
+        "themes.csv": "12be0ccfe4eea601ffc9fa1fbbbb99a43451f22539ae8cd549f6f46296ad3990",
+        "user_ratings.csv": "eee2365d33a4fd82a2a83a301e7881881c1aeaad12e19ce80acf5a6ede8c43a8"
+      }
+    },
+    "ranking_bgg_github": {
+      "url": "https://raw.githubusercontent.com/beefsack/bgg-ranking-historicals/master/2026-11-12.csv",
+      "sha256": "11f0cd8067a684829c76754a81620b833ae3d1cbde64a2474285b24df06f7b69"
+    }
+  },
+  "criterio": {
+    "juegos": "los 500 con más valoraciones (NumUserRatings), empates por BGGId",
+    "usuarios": "md5('tfm2026:' + Username) < 0.005",
+    "cambio_respecto_a_la_fuente": "Username sustituido por UserRef; el resto, sin cambios"
+  },
+  "fuente_completa": {
+    "juegos": 21925,
+    "valoraciones": 18942215,
+    "usuarios": 411375,
+    "notas_fuera_de_escala": 8,
+    "valoraciones_del_usuario_null": 63,
+    "juegos_en_ranking_actual": 31579,
+    "ranking_actual_ausentes_en_kaggle": 10118,
+    "ausentes_publicados_desde_2022": 6570,
+    "top100_actual_ausentes_en_kaggle": 23,
+    "cuota_valoraciones_en_catalogo_demo": 0.493
+  },
+  "muestra": {
+    "juegos": 500,
+    "usuarios": 1764,
+    "valoraciones": 48204,
+    "filas_ranking": 499
+  }
+}

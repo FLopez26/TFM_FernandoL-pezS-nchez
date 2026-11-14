@@ -1,0 +1,149 @@
+mecanica_id,mecanica
+1,Action Drafting
+2,Action Points
+3,Action Queue
+4,Action Retrieval
+5,Action/Event
+6,Advantage Token
+7,Alliances
+8,Area Majority / Influence
+9,Area Movement
+10,Area-Impulse
+11,Auction/Bidding
+12,Automatic Resource Growth
+13,Betting and Bluffing
+14,Bias
+15,Bingo
+16,Bribery
+17,Campaign / Battle Card Driven
+18,Card Play Conflict Resolution
+19,Catch the Leader
+20,Chaining
+21,Command Cards
+22,Commodity Speculation
+23,Communication Limits
+24,Connections
+25,Contracts
+26,Cooperative Game
+27,Critical Hits and Failures
+28,Cube Tower
+29,Deck Construction
+30,"Deck, Bag, and Pool Building"
+31,Deduction
+32,Delayed Purchase
+33,Dexterity
+34,Dice Rolling
+35,Die Icon Resolution
+36,Different Dice Movement
+37,Drafting
+38,Elapsed Real Time Ending
+39,Enclosure
+40,End Game Bonuses
+41,Events
+42,Finale Ending
+43,Follow
+44,Force Commitment
+45,Grid Coverage
+46,Grid Movement
+47,Hand Management
+48,Hexagon Grid
+49,Hidden Movement
+50,Hidden Roles
+51,Hidden Victory Points
+52,Highest-Lowest Scoring
+53,"I Cut, You Choose"
+54,Income
+55,Increase Value of Unchosen Resources
+56,Interrupts
+57,Investment
+58,Kill Steal
+59,King of the Hill
+60,Ladder Climbing
+61,Layering
+62,Legacy Game
+63,Line Drawing
+64,Line of Sight
+65,Loans
+66,Lose a Turn
+67,Mancala
+68,Map Addition
+69,Map Deformation
+70,Map Reduction
+71,Market
+72,Matching
+73,Melding and Splaying
+74,Memory
+75,Minimap Resolution
+76,Modular Board
+77,Move Through Deck
+78,Movement Points
+79,Movement Template
+80,Moving Multiple Units
+81,Multiple Maps
+82,Narrative Choice / Paragraph
+83,Negotiation
+84,Network and Route Building
+85,Once-Per-Game Abilities
+86,Order Counters
+87,Ownership
+88,Paper-and-Pencil
+89,Pattern Building
+90,Pattern Movement
+91,Pattern Recognition
+92,Physical
+93,Physical Removal
+94,Pick-up and Deliver
+95,Pieces as Map
+96,Player Elimination
+97,Player Judge
+98,Point to Point Movement
+99,Predictive Bid
+100,Prisoner's Dilemma
+101,Programmed Movement
+102,Push Your Luck
+103,Race
+104,Random Production
+105,Re-rolling and Locking
+106,Real-Time
+107,Relative Movement
+108,Resource to Move
+109,Role Playing
+110,Roles with Asymmetric Information
+111,Roll / Spin and Move
+112,Rondel
+113,Scenario / Mission / Campaign Game
+114,Score-and-Reset Game
+115,Secret Unit Deployment
+116,Semi-Cooperative Game
+117,Set Collection
+118,Simulation
+119,Simultaneous Action Selection
+120,Single Loser Game
+121,Slide/Push
+122,Solo / Solitaire Game
+123,Speed Matching
+124,Square Grid
+125,Stat Check Resolution
+126,Static Capture
+127,Stock Holding
+128,Storytelling
+129,Sudden Death Ending
+130,TableauBuilding
+131,Take That
+132,Targeted Clues
+133,Team-Based Game
+134,Tech Trees / Tech Tracks
+135,Three Dimensional Movement
+136,Tile Placement
+137,Time Track
+138,Track Movement
+139,Trading
+140,Traitor Game
+141,Trick-taking
+142,Tug of War
+143,Variable Phase Order
+144,Variable Player Powers
+145,Variable Set-up
+146,Victory Points as a Resource
+147,Voting
+148,Worker Placement

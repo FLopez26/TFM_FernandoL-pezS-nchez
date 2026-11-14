@@ -1,0 +1,126 @@
+{
+  "silver": {
+    "juegos": {
+      "filas_bronze": 500,
+      "bgg_id_duplicados": 0,
+      "columnas_descartadas": {
+        "ImagePath": "URL de imagen: no aporta al modelo y la imagen tiene derechos de BGG",
+        "LanguageEase": "escala no documentada (suma de votos, máx. 1757), no interpretable",
+        "Family": "texto libre, nulo en ~70 % de los juegos del fichero completo"
+      },
+      "ceros_o_centinelas_a_nulo": {
+        "ranking_kaggle": 3,
+        "ranking_kaggle_estrategia": 271,
+        "ranking_kaggle_abstractos": 472,
+        "ranking_kaggle_familiar": 323,
+        "ranking_kaggle_tematico": 404,
+        "ranking_kaggle_cartas_colec": 490,
+        "ranking_kaggle_guerra": 488,
+        "ranking_kaggle_fiesta": 453,
+        "ranking_kaggle_infantil": 496
+      },
+      "max_menor_que_min_a_nulo": 0,
+      "anio_negativo_conservado": 2,
+      "descripcion": "texto ya preprocesado en la fuente (minúsculas, sin stopwords, lematizado)",
+      "filas_silver": 500
+    },
+    "juego_mecanica": {
+      "juegos_sin_ninguno": 0,
+      "valores_distintos": 148,
+      "pares": 3166
+    },
+    "juego_tema": {
+      "juegos_sin_ninguno": 36,
+      "valores_distintos": 121,
+      "pares": 1209
+    },
+    "valoraciones": {
+      "filas_bronze": 48204,
+      "nota_fuera_de_escala_eliminadas": 0,
+      "pares_usuario_juego_repetidos": 95,
+      "filas_implicadas": 190,
+      "diferencia_mediana_entre_notas_repetidas": 1.0,
+      "sin_juego_en_catalogo_eliminadas": 0,
+      "filas_silver": 48109
+    },
+    "ranking_actual": {
+      "filas_bronze": 499,
+      "filas_identicas_eliminadas": 1,
+      "id_repetido_eliminadas": 0,
+      "filas_silver": 498
+    }
+  },
+  "gold": {
+    "valoraciones": 45174,
+    "filas_eliminadas_por_filtro_minimos": 2935,
+    "usuarios": 920,
+    "juegos": 500,
+    "densidad_matriz": 0.0982,
+    "valoraciones_por_usuario": {
+      "mediana": 30.0,
+      "p90": 104.10000000000002,
+      "max": 476
+    },
+    "nota": {
+      "media": 7.414,
+      "desv": 1.4
+    },
+    "cuota_positivas": 0.761,
+    "juegos_con_ranking_actual": 498,
+    "juegos_sin_ranking_actual": 2,
+    "juegos_renombrados_desde_kaggle": 16,
+    "anio_negativo_sin_signo_en_ranking_actual": 1,
+    "mecanicas": 148,
+    "temas": 121,
+    "nulos_juegos": {
+      "buenos_jugadores_min": 5,
+      "buenos_jugadores_max": 5,
+      "ranking_kaggle": 3,
+      "ranking_actual": 2,
+      "nota_bayes_actual": 2,
+      "n_votos_actual": 2,
+      "crecimiento_votos": 2
+    }
+  },
+  "bronze": {
+    "fecha_creacion": "2026-11-12T17:25:58+00:00",
+    "fuentes": {
+      "kaggle_threnjen": {
+        "url": "https://www.kaggle.com/datasets/threnjen/board-games-database-from-boardgamegeek",
+        "sha256": {
+          "games.csv": "c5905c82c05f90985aef3b535c9e314787ef969af5660bab1964bdc753b2da6d",
+          "mechanics.csv": "ddf2530cdfff9f7cf657d26b2748c89708c212544f92c6782af24df6a7c28cda",
+          "themes.csv": "12be0ccfe4eea601ffc9fa1fbbbb99a43451f22539ae8cd549f6f46296ad3990",
+          "user_ratings.csv": "eee2365d33a4fd82a2a83a301e7881881c1aeaad12e19ce80acf5a6ede8c43a8"
+        }
+      },
+      "ranking_bgg_github": {
+        "url": "https://raw.githubusercontent.com/beefsack/bgg-ranking-historicals/master/2026-11-12.csv",
+        "sha256": "11f0cd8067a684829c76754a81620b833ae3d1cbde64a2474285b24df06f7b69"
+      }
+    },
+    "criterio": {
+      "juegos": "los 500 con mÃ¡s valoraciones (NumUserRatings), empates por BGGId",
+      "usuarios": "md5('tfm2026:' + Username) < 0.005",
+      "cambio_respecto_a_la_fuente": "Username sustituido por UserRef; el resto, sin cambios"
+    },
+    "fuente_completa": {
+      "juegos": 21925,
+      "valoraciones": 18942215,
+      "usuarios": 411375,
+      "notas_fuera_de_escala": 8,
+      "valoraciones_del_usuario_null": 63,
+      "juegos_en_ranking_actual": 31579,
+      "ranking_actual_ausentes_en_kaggle": 10118,
+      "ausentes_publicados_desde_2022": 6570,
+      "top100_actual_ausentes_en_kaggle": 23,
+      "cuota_valoraciones_en_catalogo_demo": 0.493
+    },
+    "muestra": {
+      "juegos": 500,
+      "usuarios": 1764,
+      "valoraciones": 48204,
+      "filas_ranking": 499
+    }
+  }
+}
