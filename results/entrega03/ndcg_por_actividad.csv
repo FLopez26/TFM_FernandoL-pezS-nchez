@@ -1,0 +1,4 @@
+grupo,popularidad (baseline),contenido,item-kNN,usuarios
+16-40,0.1306,0.0429,0.1835,358
+8-15,0.1261,0.0304,0.1435,269
+>40,0.2252,0.0959,0.3081,287

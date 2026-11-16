@@ -1,0 +1,4 @@
+modelo,precision@10,recall@10,ndcg@10,ndcg_ic95_inf,ndcg_ic95_sup,cobertura_catalogo,rank_popularidad_medio_recomendado
+popularidad (baseline),0.1022,0.1605,0.159,0.1467,0.1718,0.098,9.0008
+contenido,0.0393,0.0496,0.0559,0.0479,0.0637,0.966,235.4883
+item-kNN,0.1368,0.211,0.2108,0.1966,0.2246,0.586,53.8023

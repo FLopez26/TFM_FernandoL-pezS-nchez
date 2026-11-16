@@ -1,0 +1,11 @@
+user_id,posicion,bgg_id,juego,puntuacion,porque_te_gusto,en_test_y_positivo
+29,1,30549,Pandemic,7.931,Dominion,False
+29,2,169786,Scythe,7.579,Azul,False
+29,3,120677,Terra Mystica,7.243,Great Western Trail,False
+29,4,822,Carcassonne,7.202,Dominion,False
+29,5,110327,Lords of Waterdeep,6.855,Dominion,False
+29,6,148228,Splendor,6.812,Codenames,False
+29,7,170216,Blood Rage,6.577,Codenames,False
+29,8,181304,Mysterium,6.568,Codenames,False
+29,9,126163,Tzolk'in: The Mayan Calendar,6.539,Great Western Trail,False
+29,10,150376,Dead of Winter: A Crossroads Game,6.512,T.I.M.E Stories,True

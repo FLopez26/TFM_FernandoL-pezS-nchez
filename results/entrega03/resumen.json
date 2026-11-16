@@ -1,0 +1,20 @@
+{
+  "item_knn_elegido": {
+    "variante": "binaria",
+    "vecinos": 200
+  },
+  "particion": {
+    "train": 36485,
+    "test": 8689,
+    "usuarios_evaluados": 914,
+    "juegos": 500,
+    "relevantes_test": 6563
+  },
+  "diferencia_ndcg_itemknn_menos_baseline": {
+    "media": 0.0519,
+    "ic95": [
+      0.04,
+      0.0637
+    ]
+  }
+}

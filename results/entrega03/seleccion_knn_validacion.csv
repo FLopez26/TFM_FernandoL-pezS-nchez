@@ -1,0 +1,9 @@
+variante,vecinos,ndcg@10_validacion
+binaria,20,0.1488
+binaria,50,0.1578
+binaria,100,0.1576
+binaria,200,0.1601
+centrada,20,0.0584
+centrada,50,0.0574
+centrada,100,0.0555
+centrada,200,0.055
